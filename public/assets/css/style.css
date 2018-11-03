@@ -3373,6 +3373,18 @@ ul.pagination {
 	.video__wrapper {
 		font-size: 8px;
 	}
+	.caption__small{
+		display: block;
+	}
+	.caption__small--para{
+		margin-right:0;
+	}
+	.content__desc{
+		font-size:6.25em !important
+	}
+	.logo__main svg{
+		height: 135px;
+	}
 }
 /***** banner styles end *****/
 
